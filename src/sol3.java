@@ -1,6 +1,5 @@
-public class UTS
-public class CodesCracker
-{
+public class sol3 {
+
     public static void main(String[] args)
     {
         int[] arr = new int[10];
@@ -24,3 +23,5 @@ public class CodesCracker
     }
 }
 }
+
+
