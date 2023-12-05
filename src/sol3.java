@@ -4,22 +4,8 @@ public class sol3 {
     {
         int[] arr = new int[10];
         Scanner s = new Scanner(System.in);
-
-        System.out.print("Enter 10 Numbers for the Array: ");
-        for(int i=0; i<10; i++)
-            arr[i] = s.nextInt();
-
-        int countEven=0, countOdd=0;
-        for(int i=0; i<10; i++)
-        {
-            if(arr[i]%2==0)
-                countEven++;
-            else
-                countOdd++;
-        }
-
-        System.out.println("\nEven Number: " +countEven);
-        System.out.println("Odd Number: " +countOdd);
+        System.out.println(" Number: " );
+        System.out.println(" Number: " );
     }
 }
 }
